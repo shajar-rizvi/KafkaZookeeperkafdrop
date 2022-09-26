@@ -10,7 +10,7 @@ sudo service docker start
 # TO create new file
 1) touch compose-demo 
 
-# TO open File to edit 
+#  Open File to edit 
 3) nano docker-compose.yml
 4) Paste the given yml content 
 
